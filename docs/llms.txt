@@ -1,0 +1,19 @@
+# obhOD-teleGRam
+
+> Актуальная версия с улучшенной поддержкой Telegram. Стабильнее, быстрее, надежнее
+
+obhOD-teleGRam возвращает фото, кружочки и звонки Telegram, когда провайдер режет медиа.
+
+## Страницы
+- Сайт: https://crossadministrator.github.io/obhOD-teleGRam/
+- Релиз: https://github.com/CrossAdministrator/obhOD-teleGRam/releases/latest
+- Исходный код: https://github.com/CrossAdministrator/obhOD-teleGRam
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Telegram
+- Telegram не отправляет фото
+- Telegram звонки не работают
+- zapret Telegram
+
+Windows 10/11, без VPN, бесплатно.
